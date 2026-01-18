@@ -1,7 +1,11 @@
 name: KnockbackStick
 version: '1.0-SNAPSHOT'
-main: it.alessandrocalista.knockbackStick.KnockbackStick
+main: it.alessandrocalista.knockbackstick.KnockbackStick
 api-version: '1.21'
 authors: [ nicecraftz ]
 description: Throw enemies around
 website: https://alessandrocalista.it
+
+commands:
+  knockbackstick:
+    aliases: ['kbstick', 'kbs']
