@@ -1,0 +1,7 @@
+name: KnockbackStick
+version: '1.0-SNAPSHOT'
+main: it.alessandrocalista.knockbackStick.KnockbackStick
+api-version: '1.21'
+authors: [ nicecraftz ]
+description: Throw enemies around
+website: https://alessandrocalista.it
