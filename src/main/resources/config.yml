@@ -1,0 +1,7 @@
+stick:
+  name: "<green>Knockback Stick"
+  lore:
+    - "<gray>Uno stick potente che infligge"
+    - "<gray>un forte knockback ai nemici."
+    - ""
+    - "<gray>Moltiplicatore: <yellow>%multiplier%x"
